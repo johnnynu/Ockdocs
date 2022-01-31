@@ -8,7 +8,7 @@ const App = () => {
   const [value, setValue] = useState([
     {
       type: "paragraph",
-      children: [{ text: "A line of text in a paragraph." }]
+      children: [{ text: "This is an ockdoc" }]
     }
   ]);
 
